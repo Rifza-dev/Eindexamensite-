@@ -1,7 +1,7 @@
 # Online Examination Platform
 
 **Role:** Backend & Frontend Development  
-**Technologies:** Laravel, PHP, MySQL, Bootstrap
+**Technologies:** Laravel, PHP, MySQL, tailwinkd, javascript
 
 **Features Implemented:**  
 - Student exam attempt handling  
